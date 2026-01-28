@@ -46,3 +46,5 @@ No frameworks, no libraries — just plain JavaScript doing the heavy lifting.
 
 📚 Learning Outcome
 The Bankist App serves as a practical demonstration of how JavaScript can be used to build interactive, state-driven applications. It bridges the gap between theory and practice, offering a realistic look at how core JS concepts come together in a functional project.
+
+This project was created while taking “The Complete JavaScript Course 2025: From Zero to Expert!” by Jonas Schmedtmann on Udemy.
