@@ -4,6 +4,7 @@
 Login credentials:  
 username1: js, password1: 1111  
 username2: jw, password2: 2222  
+
 Bankist is a simplified banking application built as part of a JavaScript course project. While it doesn’t aim to replace your real bank anytime soon, it does a solid job of simulating core banking features while showcasing important JavaScript concepts under the hood.
 
 The main goal of this project was hands-on learning — taking provided logic and requirements and completing the application to gain practical experience with timers, dates, numbers, and DOM manipulation.
