@@ -1,6 +1,6 @@
 # 🏦 Bankist App Project
 
-*For demonstrational purposes*  
+*For demonstration purposes*  
 Login credentials:  
 username1: js, password1: 1111  
 username2: jw, password2: 2222  
